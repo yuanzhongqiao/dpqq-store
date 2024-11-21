@@ -1,147 +1,117 @@
-[![umbrelOS](https://github.com/getumbrel/umbrel/assets/10330103/56be7b95-0c24-4dee-ad3a-e5947bc2ee07)](https://umbrel.com/umbrelos)
-
-<p align="center">
-  <h1 align="center">umbrelOS</h1>
-  <p align="center">
-    A beautiful home server OS for self-hosting
-    <br />
-    <a href="https://umbrel.com"><strong>umbrel.com »</strong></a>
-    <br />
-    <br />
-    Buy an <a href="https://umbrel.com/umbrel-home">Umbrel Home</a> or install on a <a href="https://github.com/getumbrel/umbrel/wiki/Install-umbrelOS-on-a-Raspberry-Pi-5">Raspberry Pi 5</a> or <a href="https://github.com/getumbrel/umbrel/wiki/Install-umbrelOS-on-x86-systems">any x86 system</a>.
-    <br />
-    <br />
-    <a href="https://twitter.com/umbrel">
-      <img src="https://img.shields.io/twitter/follow/umbrel?style=social" />
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a href="https://umbrel.com/umbrelos" rel="nofollow"><img src="https://private-user-images.githubusercontent.com/10330103/313805454-56be7b95-0c24-4dee-ad3a-e5947bc2ee07.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxNTk3MjAsIm5iZiI6MTczMjE1OTQyMCwicGF0aCI6Ii8xMDMzMDEwMy8zMTM4MDU0NTQtNTZiZTdiOTUtMGMyNC00ZGVlLWFkM2EtZTU5NDdiYzJlZTA3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTIxVDAzMjM0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJmYTA1NjY1MGU2Y2Q1YWM0YzFjNTkwNTgxOWVlMjI1NGE5NWE5NTcwNjE0MTkzNDdmZDdlNTJiNTRmM2EwYjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.c48ChIVc4XSgPEm-9dEgQ9htTmzbaZUMRnzUWsbyCgY" alt="umbrelOS" secured-asset-link="" style="max-width: 100%;" _mstalt="108017" _msthash="241"></a></p>
+<p align="center" dir="auto">
+  </p><div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto" _msttexthash="108017" _msthash="242">umbrelOS</h1><a id="user-content-umbrelos" class="anchor" aria-label="永久链接： umbrelOS" href="#umbrelos" _mstaria-label="359892" _msthash="243"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+  <p align="center" dir="auto"><font _mstmutation="1" _msttexthash="363858950" _msthash="244">用于自托管 <br _mstmutation="1" _istranslated="1"> <a href="https://umbrel.com" rel="nofollow" _mstmutation="1" _istranslated="1"><strong _istranslated="1">umbrel.com</strong></a> 的漂亮家庭服务器操作系统 » <br _mstmutation="1" _istranslated="1"> <br _mstmutation="1" _istranslated="1"> 购买 <a href="https://umbrel.com/umbrel-home" rel="nofollow" _mstmutation="1" _istranslated="1">Umbrel Home</a> 或安装在 <a href="https://github.com/getumbrel/umbrel/wiki/Install-umbrelOS-on-a-Raspberry-Pi-5" _mstmutation="1" _istranslated="1">Raspberry Pi 5</a> <a href="https://github.com/getumbrel/umbrel/wiki/Install-umbrelOS-on-x86-systems" _mstmutation="1" _istranslated="1">或任何 x86 系统上</a>。</font><br>
+    <br>
+    <a href="https://twitter.com/umbrel" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/3850038690b0cb7fe1c06467342d008b1907f041283b38d2861b72a6b1f8d39b/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f756d6272656c3f7374796c653d736f6369616c" data-canonical-src="https://img.shields.io/twitter/follow/umbrel?style=social" style="max-width: 100%;">
     </a>
-    <a href="https://t.me/getumbrel">
-      <img src="https://img.shields.io/badge/community-chat-%235351FB">
+    <a href="https://t.me/getumbrel" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/8f71267efa79509df382fb0ca16f89bcfe58e58d7c79317e31c4386bffad1071/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6d6d756e6974792d636861742d253233353335314642" data-canonical-src="https://img.shields.io/badge/community-chat-%235351FB" style="max-width: 100%;">
     </a>
-    <a href="https://reddit.com/r/getumbrel">
-      <img src="https://img.shields.io/reddit/subreddit-subscribers/getumbrel?style=social">
+    <a href="https://reddit.com/r/getumbrel" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/6450d2751d71a4450996bafa278c039d383740f42dc9fc43822537c63c62aba9/68747470733a2f2f696d672e736869656c64732e696f2f7265646469742f7375627265646469742d73756273637269626572732f676574756d6272656c3f7374796c653d736f6369616c" data-canonical-src="https://img.shields.io/reddit/subreddit-subscribers/getumbrel?style=social" style="max-width: 100%;">
     </a>
-    <a href="https://community.getumbrel.com">
-      <img src="https://img.shields.io/badge/community-forum-%235351FB">
+    <a href="https://community.getumbrel.com" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/922e2364fbf41650e9a822562498b51a093d1c89615e7b39bde8c777983ca8ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6d6d756e6974792d666f72756d2d253233353335314642" data-canonical-src="https://img.shields.io/badge/community-forum-%235351FB" style="max-width: 100%;">
     </a>
   </p>
-</p>
-
-<br />
-
-<p align="center">
-At Umbrel, we believe that everyone should be able to enjoy the convenience and benefits of the cloud, without giving up ownership and control of their data.
-</p>
-
-<p align="center">
-To achieve our vision, we're building a new kind of a home server OS. Instead of paying ransoms for storing your data on someone else's computer while they auction it off to advertisers — you can now easily spin up a server and self-host your data and services at home.
-</p>
-
-<p align="center">
-Just like the cloud, but one that you own and control.
-</p>
-
-<br />
-
-<br />
-
-## Installing umbrelOS
-
-- [Install umbrelOS on a Raspberry Pi 5](https://github.com/getumbrel/umbrel/wiki/Install-umbrelOS-on-a-Raspberry-Pi-5)
-- [Install umbrelOS on any x86 system](https://github.com/getumbrel/umbrel/wiki/Install-umbrelOS-on-x86-Systems)
-- [Install umbrelOS in a VM](https://github.com/getumbrel/umbrel/wiki/Install-umbrelOS-on-a-Linux-VM)
-
-
-## Umbrel App Store
-
-<br />
-
-Here are some of the apps available in the Umbrel App Store. For the complete list of apps, visit [apps.umbrel.com](https://apps.umbrel.com/).
-
-#### Files & Productivity
-
-- [Calibre Web](https://apps.umbrel.com/app/calibre-web) — A clean web app for your eBooks
-- [Nextcloud](https://apps.umbrel.com/app/nextcloud) — Productivity platform that keeps you in control
-- [Immich](https://apps.umbrel.com/app/immich) - High performance photo and video backup solution
-- [PhotoPrism](https://apps.umbrel.com/app/photoprism) — Self-host your photo and video library
-- [SyncThing](https://apps.umbrel.com/app/syncthing) — Peer-to-peer file synchronization between your devices
-- [Vaultwarden](https://apps.umbrel.com/app/vaultwarden) — Unofficial Bitwarden® compatible server
-
-#### Media
-
-- [Jellyfin](https://apps.umbrel.com/app/jellyfin) — The Free Software Media System
-- [Lidarr](https://apps.umbrel.com/app/lidarr) — Looks and smells like Sonarr but made for music
-- [Plex](https://apps.umbrel.com/app/plex) — Stream Movies & TV Shows
-- [Prowlarr](https://apps.umbrel.com/app/prowlarr) — Indexer manager/proxy for Sonarr, Radarr, and Lidarr
-- [Radarr](https://apps.umbrel.com/app/radarr) — Your movie collection manager
-- [Sonarr](https://apps.umbrel.com/app/sonarr) — Smart PVR for newsgroup and bittorrent users
-
-#### Bitcoin & Finance
-
-- [Bitcoin Node](https://apps.umbrel.com/app/bitcoin) — Run your personal node powered by Bitcoin Core
-- [Electrs](https://apps.umbrel.com/app/electrs) — A simple and efficient Electrum Server
-- [Mempool](https://apps.umbrel.com/app/mempool) — A self-hosted explorer for the Bitcoin community
-- [Bitfeed](https://apps.umbrel.com/app/bitfeed) — A beautiful mempool visualizer and block explorer
-- [BTCPay Server](https://apps.umbrel.com/app/btcpay-server) — Accept Bitcoin payments with zero fees & no 3rd party
-- [RoboSats](https://apps.umbrel.com/app/robosats) — Simple and Private Bitcoin P2P Exchange
-- [Jam](https://apps.umbrel.com/app/jam) — Your sats. Your privacy. Your profit.
-- [Samourai Server](https://apps.umbrel.com/app/samourai-server) — Your private backing server for Samourai Wallet
-- [Lightning Node](https://apps.umbrel.com/app/lightning) — Run your personal Lightning Network node
-- [Core Lightning](https://apps.umbrel.com/app/core-lightning) — Run your personal Core Lightning node
-- [Lightning Terminal](https://apps.umbrel.com/app/lightning-terminal) — The easiest way to manage channel liquidity
-- [LNBits](https://apps.umbrel.com/app/lnbits) — Multi-user wallet management system
-- [Ride The Lightning](https://apps.umbrel.com/app/ride-the-lightning) — A powerful dashboard for the Lightning Network
-- [ThunderHub](https://apps.umbrel.com/app/thunderhub) — Take full control of your Lightning node
-- [Invoice Ninja](https://apps.umbrel.com/app/invoice-ninja) - We'll help with the invoicing
-
-#### AI
-
-- [LlamaGPT](https://apps.umbrel.com/app/llama-gpt) - Self-hosted, offline ChatGPT-like chatbot powered by Llama 2
-- [ChatBot UI](https://apps.umbrel.com/app/chatbot-ui) - ChatGPT but better
-- [Chatpad AI](https://apps.umbrel.com/app/chatpad-ai) - Premium quality UI for ChatGPT
-
-#### Networking
-
-- [Pi-hole](https://apps.umbrel.com/app/pi-hole) — Block ads on your entire network
-- [Tailscale](https://apps.umbrel.com/app/tailscale) — Zero config VPN to access your Umbrel from anywhere
-- [Transmission](https://apps.umbrel.com/app/transmission) — A fast, easy and free BitTorrent client
-- [Uptime Kuma](https://apps.umbrel.com/app/uptime-kuma) — Self-hosted uptime monitoring tool
-- [Urbit](https://apps.umbrel.com/app/urbit) — Run Urbit on your Umbrel
-- [Whoogle Search](https://apps.umbrel.com/app/whoogle-search) — A self-hosted, ad-free, privacy-respecting metasearch engine
-
-#### Social
-
-- [Element](https://apps.umbrel.com/app/element) — A glossy Matrix client compatible with Synapse
-- [Invidious](https://apps.umbrel.com/app/invidious) — Browse YouTube without tracking or ads
-- [LibReddit](https://apps.umbrel.com/app/libreddit) — An alternative private front-end to Reddit
-- [Nitter](https://apps.umbrel.com/app/nitter) — Browse Twitter without tracking or ads
-- [Nostr Relay](https://apps.umbrel.com/app/nostr-relay) - Backup all your Nostr activity with your private relay
-- [Synapse](https://apps.umbrel.com/app/synapse) — Matrix reference homeserver
-
-#### Automation
-
-- [Home Assistant](https://apps.umbrel.com/app/home-assistant) — Home automation that puts local control & privacy first
-- [n8n](https://apps.umbrel.com/app/n8n) - Build complex workflows, really fast
-- [Node-RED](https://apps.umbrel.com/app/node-red-standalone) — Wire together the Internet of Things
-
-#### Developer Tools
-
-- [Code Server](https://apps.umbrel.com/app/code-server) — Run VS Code on your Umbrel
-- [Gitea](https://apps.umbrel.com/app/gitea) — A painless self-hosted Git service
-
-> If an app you're looking for isn't available on our app store yet, feel free to open an issue on the [umbrel-apps](https://github.com/getumbrel/umbrel-apps) respository to request it.
-
-## Building apps for umbrelOS
-
-If you're interested in building an app for umbrelOS or packaging an existing one, please refer to the [Umbrel App Framework documentation](https://github.com/getumbrel/umbrel-apps/blob/master/README.md).
-
-## Setting up a development environment
-
-With the release of umbrelOS 1.0, a lot of the underlying architecture of the project has changed. This section will be re-written with up-to-date development instructions.
-
-## License
-
-umbrelOS is licensed under the PolyForm Noncommercial 1.0.0 license. TL;DR — You're free to use, fork, modify, and redistribute Umbrel for personal and nonprofit use under the same license. If you're interested in using umbrelOS for commercial purposes, such as selling plug-and-play home servers with umbrelOS, etc — please reach out to us at partner@umbrel.com.
-
-[![License](https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-%235351FB)](https://github.com/getumbrel/umbrel/blob/master/LICENSE.md)
-
-[umbrel.com](https://umbrel.com)
+<p dir="auto"></p>
+<br>
+<p align="center" dir="auto" _msttexthash="479023441" _msthash="245">在 Umbrel，我们相信每个人都应该能够享受云的便利和好处，而无需放弃对其数据的所有权和控制权。</p>
+<p align="center" dir="auto" _msttexthash="1778014472" _msthash="246">为了实现我们的愿景，我们正在构建一种新型的家用服务器操作系统。现在，您无需支付赎金将数据存储在别人的计算机上，而他们将其拍卖给广告商，而是可以轻松地启动服务器并在家中自行托管您的数据和服务。</p>
+<p align="center" dir="auto" _msttexthash="68252093" _msthash="247">就像云一样，但由您拥有和控制。</p>
+<br>
+<br>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5902806" _msthash="248">安装 umbrelOS</h2><a id="user-content-installing-umbrelos" class="anchor" aria-label="永久链接：安装 umbrelOS" href="#installing-umbrelos" _mstaria-label="758485" _msthash="249"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://github.com/getumbrel/umbrel/wiki/Install-umbrelOS-on-a-Raspberry-Pi-5" _msttexthash="24118575" _msthash="250">在 Raspberry Pi 5 上安装 umbrelOS</a></li>
+<li><a href="https://github.com/getumbrel/umbrel/wiki/Install-umbrelOS-on-x86-Systems" _msttexthash="34591037" _msthash="251">在任何 x86 系统上安装 umbrelOS</a></li>
+<li><a href="https://github.com/getumbrel/umbrel/wiki/Install-umbrelOS-on-a-Linux-VM" _msttexthash="13634101" _msthash="252">在 VM 中安装 umbrelOS</a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="18920590" _msthash="253">Umbrel 应用商店</h2><a id="user-content-umbrel-app-store" class="anchor" aria-label="永久链接：Umbrel 应用商店" href="#umbrel-app-store" _mstaria-label="585624" _msthash="254"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<br>
+<p dir="auto" _msttexthash="376354485" _msthash="255">以下是 Umbrel App Store 中提供的一些应用程序。有关应用程序的完整列表，请访问 <a href="https://apps.umbrel.com/" rel="nofollow" _istranslated="1">apps.umbrel.com</a>。</p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="16881358" _msthash="256">文件与生产力</h4><a id="user-content-files--productivity" class="anchor" aria-label="永久链接：文件与生产力" href="#files--productivity" _mstaria-label="954629" _msthash="257"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="113516390" _msthash="258"><a href="https://apps.umbrel.com/app/calibre-web" rel="nofollow" _istranslated="1">Calibre Web</a> — 适用于电子书的干净 Web 应用程序</li>
+<li _msttexthash="88347649" _msthash="259"><a href="https://apps.umbrel.com/app/nextcloud" rel="nofollow" _istranslated="1">Nextcloud</a> — 让您掌控一切的生产力平台</li>
+<li _msttexthash="105952613" _msthash="260"><a href="https://apps.umbrel.com/app/immich" rel="nofollow" _istranslated="1">Immich</a> - 高性能照片和视频备份解决方案</li>
+<li _msttexthash="98919977" _msthash="261"><a href="https://apps.umbrel.com/app/photoprism" rel="nofollow" _istranslated="1">PhotoPrism</a> — 自托管您的照片和视频库</li>
+<li _msttexthash="95428944" _msthash="262"><a href="https://apps.umbrel.com/app/syncthing" rel="nofollow" _istranslated="1">SyncThing</a> — 设备之间的点对点文件同步</li>
+<li _msttexthash="85828509" _msthash="263"><a href="https://apps.umbrel.com/app/vaultwarden" rel="nofollow" _istranslated="1">Vaultwarden</a> — 非官方的 Bitwarden® 兼容服务器</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="4221854" _msthash="264">媒体</h4><a id="user-content-media" class="anchor" aria-label="永久链接： 媒体" href="#media" _mstaria-label="265837" _msthash="265"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="59283185" _msthash="266"><a href="https://apps.umbrel.com/app/jellyfin" rel="nofollow" _istranslated="1">Jellyfin</a> — 自由软件媒体系统</li>
+<li _msttexthash="175603272" _msthash="267"><a href="https://apps.umbrel.com/app/lidarr" rel="nofollow" _istranslated="1">激光雷达</a> — 外观和闻起来都像 Sonarr，但专为音乐而设计</li>
+<li _msttexthash="61645298" _msthash="268"><a href="https://apps.umbrel.com/app/plex" rel="nofollow" _istranslated="1">Plex</a> — 流媒体电影和电视节目</li>
+<li _msttexthash="140171642" _msthash="269"><a href="https://apps.umbrel.com/app/prowlarr" rel="nofollow" _istranslated="1">Prowlarr</a> — Sonarr、Radarr 和 Lidarr 的索引器管理器/代理</li>
+<li _msttexthash="60711846" _msthash="270"><a href="https://apps.umbrel.com/app/radarr" rel="nofollow" _istranslated="1">Radarr</a> — 您的电影收藏管理器</li>
+<li _msttexthash="109255185" _msthash="271"><a href="https://apps.umbrel.com/app/sonarr" rel="nofollow" _istranslated="1">Sonarr</a> — 适用于新闻组和 bittorrent 用户的智能 PVR</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="21724352" _msthash="272">比特币与金融</h4><a id="user-content-bitcoin--finance" class="anchor" aria-label="永久链接：比特币与金融" href="#bitcoin--finance" _mstaria-label="763412" _msthash="273"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="129983113" _msthash="274"><a href="https://apps.umbrel.com/app/bitcoin" rel="nofollow" _istranslated="1">比特币节点</a> — 运行由 Bitcoin Core 提供支持的个人节点</li>
+<li _msttexthash="60975668" _msthash="275"><a href="https://apps.umbrel.com/app/electrs" rel="nofollow" _istranslated="1">Electrs</a> — 简单高效的 Electrum 服务器</li>
+<li _msttexthash="92214785" _msthash="276"><a href="https://apps.umbrel.com/app/mempool" rel="nofollow" _istranslated="1">Mempool</a> — 比特币社区的自托管浏览器</li>
+<li _msttexthash="137803263" _msthash="277"><a href="https://apps.umbrel.com/app/bitfeed" rel="nofollow" _istranslated="1">Bitfeed</a> — 一个漂亮的内存池可视化器和区块浏览器</li>
+<li _msttexthash="150801287" _msthash="278"><a href="https://apps.umbrel.com/app/btcpay-server" rel="nofollow" _istranslated="1">BTCPay</a>服务器 — 接受零费用且无第三方的比特币支付</li>
+<li _msttexthash="93989935" _msthash="279"><a href="https://apps.umbrel.com/app/robosats" rel="nofollow" _istranslated="1">RoboSats</a> — 简单而私密的比特币 P2P 交易所</li>
+<li _msttexthash="86396102" _msthash="280"><a href="https://apps.umbrel.com/app/jam" rel="nofollow" _istranslated="1">果酱</a> — 你的 sats。您的隐私。您的利润。</li>
+<li _msttexthash="140543312" _msthash="281"><a href="https://apps.umbrel.com/app/samourai-server" rel="nofollow" _istranslated="1">Samourai 服务器</a> — 您的 Samourai 钱包的私人后备服务器</li>
+<li _msttexthash="120304028" _msthash="282"><a href="https://apps.umbrel.com/app/lightning" rel="nofollow" _istranslated="1">Lightning 节点</a> — 运行您的个人 Lightning 网络节点</li>
+<li _msttexthash="85898475" _msthash="283"><a href="https://apps.umbrel.com/app/core-lightning" rel="nofollow" _istranslated="1">Core Lightning</a> — 运行您的个人 Core Lightning 节点</li>
+<li _msttexthash="151549190" _msthash="284"><a href="https://apps.umbrel.com/app/lightning-terminal" rel="nofollow" _istranslated="1">Lightning Terminal</a> — 管理通道流动性的最简单方法</li>
+<li _msttexthash="63637379" _msthash="285"><a href="https://apps.umbrel.com/app/lnbits" rel="nofollow" _istranslated="1">LNBits</a> — 多用户钱包管理系统</li>
+<li _msttexthash="110074510" _msthash="286"><a href="https://apps.umbrel.com/app/ride-the-lightning" rel="nofollow" _istranslated="1">Ride The Lightning</a> — 闪电网络的强大仪表板</li>
+<li _msttexthash="68553953" _msthash="287"><a href="https://apps.umbrel.com/app/thunderhub" rel="nofollow" _istranslated="1">ThunderHub</a> — 完全控制您的 Lightning 节点</li>
+<li _msttexthash="75909912" _msthash="288"><a href="https://apps.umbrel.com/app/invoice-ninja" rel="nofollow" _istranslated="1">Invoice Ninja</a> - 我们将帮助您开具发票</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="11695970" _msthash="289">人工智能</h4><a id="user-content-ai" class="anchor" aria-label="永久链接：AI" href="#ai" _mstaria-label="178152" _msthash="290"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="228809061" _msthash="291"><a href="https://apps.umbrel.com/app/llama-gpt" rel="nofollow" _istranslated="1">LlamaGPT</a> - 由 Llama 2 提供支持的自托管、类似离线 ChatGPT 的聊天机器人</li>
+<li _msttexthash="22930076" _msthash="292"><a href="https://apps.umbrel.com/app/chatbot-ui" rel="nofollow" _istranslated="1">ChatBot UI</a> - ChatGPT 但更好</li>
+<li _msttexthash="28604511" _msthash="293"><a href="https://apps.umbrel.com/app/chatpad-ai" rel="nofollow" _istranslated="1">Chatpad AI</a> - ChatGPT 的优质 UI</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6379204" _msthash="294">联网</h4><a id="user-content-networking" class="anchor" aria-label="永久链接：网络" href="#networking" _mstaria-label="445393" _msthash="295"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="66758471" _msthash="296"><a href="https://apps.umbrel.com/app/pi-hole" rel="nofollow" _istranslated="1">Pi-hole</a> — 拦截整个网络上的广告</li>
+<li _msttexthash="127729719" _msthash="297"><a href="https://apps.umbrel.com/app/tailscale" rel="nofollow" _istranslated="1">Tailscale</a>：零配置 VPN，随时随地访问 Umbrel</li>
+<li _msttexthash="81206008" _msthash="298"><a href="https://apps.umbrel.com/app/transmission" rel="nofollow" _istranslated="1">传输</a> — 快速、简单且免费的 BitTorrent 客户端</li>
+<li _msttexthash="131146496" _msthash="299"><a href="https://apps.umbrel.com/app/uptime-kuma" rel="nofollow" _istranslated="1">Uptime Kuma</a> — 自托管的正常运行时间监控工具</li>
+<li _msttexthash="30638907" _msthash="300"><a href="https://apps.umbrel.com/app/urbit" rel="nofollow" _istranslated="1">Urbit</a> — 在 Umbrel 上运行 Urbit</li>
+<li _msttexthash="209446081" _msthash="301"><a href="https://apps.umbrel.com/app/whoogle-search" rel="nofollow" _istranslated="1">Whoogle Search</a> — 一个自托管、无广告、尊重隐私的元搜索引擎</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="8480238" _msthash="302">社会的</h4><a id="user-content-social" class="anchor" aria-label="永久链接：社交" href="#social" _mstaria-label="300144" _msthash="303"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="86516560" _msthash="304"><a href="https://apps.umbrel.com/app/element" rel="nofollow" _istranslated="1">Element</a> — 与 Synapse 兼容的光面 Matrix 客户端</li>
+<li _msttexthash="115246430" _msthash="305"><a href="https://apps.umbrel.com/app/invidious" rel="nofollow" _istranslated="1">Invidious</a> — 浏览 YouTube，没有跟踪或广告</li>
+<li _msttexthash="65179699" _msthash="306"><a href="https://apps.umbrel.com/app/libreddit" rel="nofollow" _istranslated="1">LibReddit</a> — Reddit 的替代私有前端</li>
+<li _msttexthash="105573052" _msthash="307"><a href="https://apps.umbrel.com/app/nitter" rel="nofollow" _istranslated="1">Nitter</a> — 浏览 Twitter，无需跟踪或广告</li>
+<li _msttexthash="96079802" _msthash="308"><a href="https://apps.umbrel.com/app/nostr-relay" rel="nofollow" _istranslated="1">Nostr Relay</a> - 使用私有中继备份所有 Nostr 活动</li>
+<li _msttexthash="51879672" _msthash="309"><a href="https://apps.umbrel.com/app/synapse" rel="nofollow" _istranslated="1">Synapse</a> — 矩阵引用主服务器</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="7715708" _msthash="310">自动化</h4><a id="user-content-automation" class="anchor" aria-label="永久链接： 自动化" href="#automation" _mstaria-label="444158" _msthash="311"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="183449812" _msthash="312"><a href="https://apps.umbrel.com/app/home-assistant" rel="nofollow" _istranslated="1">Home Assistant</a> — 将本地控制和隐私放在首位的家庭自动化</li>
+<li _msttexthash="75928307" _msthash="313"><a href="https://apps.umbrel.com/app/n8n" rel="nofollow" _istranslated="1">n8n</a> - 非常快速地构建复杂的工作流</li>
+<li _msttexthash="68989349" _msthash="314"><a href="https://apps.umbrel.com/app/node-red-standalone" rel="nofollow" _istranslated="1">Node-RED</a> — 将物联网连接在一起</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="16300297" _msthash="315">开发人员工具</h4><a id="user-content-developer-tools" class="anchor" aria-label="永久链接： 开发者工具" href="#developer-tools" _mstaria-label="597376" _msthash="316"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="38764830" _msthash="317"><a href="https://apps.umbrel.com/app/code-server" rel="nofollow" _istranslated="1">Code Server</a> — 在 Umbrel 上运行 VS Code</li>
+<li _msttexthash="67186275" _msthash="318"><a href="https://apps.umbrel.com/app/gitea" rel="nofollow" _istranslated="1">Gitea</a> — 一种轻松的自托管 Git 服务</li>
+</ul>
+<blockquote>
+<p dir="auto" _msttexthash="498622111" _msthash="319">如果你正在寻找的应用程序在我们的应用商店中还没有，请随时在 <a href="https://github.com/getumbrel/umbrel-apps" _istranslated="1">umbrel-apps</a> 存储库上打开一个问题来请求它。</p>
+</blockquote>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="40631617" _msthash="320">为 umbrelOS 构建应用程序</h2><a id="user-content-building-apps-for-umbrelos" class="anchor" aria-label="永久链接：为 umbrelOS 构建应用程序" href="#building-apps-for-umbrelos" _mstaria-label="1014221" _msthash="321"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="404134965" _msthash="322">如果您有兴趣为 umbrelOS 构建应用程序或打包现有应用程序，请参阅 <a href="https://github.com/getumbrel/umbrel-apps/blob/master/README.md" _istranslated="1">Umbrel 应用程序框架文档</a>。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="20052721" _msthash="323">设置开发环境</h2><a id="user-content-setting-up-a-development-environment" class="anchor" aria-label="永久链接： 设置开发环境" href="#setting-up-a-development-environment" _mstaria-label="1612962" _msthash="324"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="520138489" _msthash="325">随着 umbrelOS 1.0 的发布，该项目的许多底层架构都发生了变化。本节将使用最新的开发说明重新编写。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="9675445" _msthash="326">许可证</h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license" _mstaria-label="331903" _msthash="327"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="2716475905" _msthash="328">umbrelOS 根据 PolyForm 非商业性 1.0.0 许可证获得许可。TL;DR — 您可以在同一许可证下自由使用、分叉、修改和重新分发 Umbrel 供个人和非营利使用。如果您有兴趣将 umbrelOS 用于商业目的，例如销售带有 umbrelOS 的即插即用家庭服务器等，请通过 <a href="mailto:partner@umbrel.com" _istranslated="1">partner@umbrel.com</a> 与我们联系。</p>
+<p dir="auto"><a href="https://github.com/getumbrel/umbrel/blob/master/LICENSE.md"><img src="https://camo.githubusercontent.com/37fb1bf7840c4291339afeb4e60e8ce2f56d116d53b893ea07e5dbdb90c7479e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d506f6c79466f726d2532304e6f6e636f6d6d65726369616c253230312e302e302d253233353335314642" alt="许可证" data-canonical-src="https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-%235351FB" style="max-width: 100%;" _mstalt="93288" _msthash="329"></a></p>
+<p dir="auto"><a href="https://umbrel.com" rel="nofollow" _msttexthash="149669" _msthash="330">umbrel.com</a></p>
+</article></div>
